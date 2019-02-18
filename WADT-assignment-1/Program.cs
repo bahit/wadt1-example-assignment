@@ -6,7 +6,8 @@ namespace WADT_assignment_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("Ho");
+            Console.Write("hi");
         }
     }
 }
