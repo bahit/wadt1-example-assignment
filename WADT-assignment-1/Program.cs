@@ -8,6 +8,7 @@ namespace WADT_assignment_1
         {
             Console.WriteLine("Ho");
             Console.Write("hi");
+            Console.WriteLine("Hi");
         }
     }
 }
